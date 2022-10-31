@@ -24,3 +24,11 @@ Clasificacion de Hallazgos
 Hallazgos Ronda 1 / Ronda 2
 
 [![EUH1.png](https://i.postimg.cc/xCG99nFQ/EUH1.png)](https://postimg.cc/DJz9gkTp)
+
+Maqueta interfaces  CURSOS / USUARIOS / DONACIONES
+
+[![maqueta-Intefaz-Cursos.png](https://i.postimg.cc/rmcLy1ND/maqueta-Intefaz-Cursos.png)](https://postimg.cc/p90Sqn7v)
+
+[![maqueta-Intefaz-Usuarios.png](https://i.postimg.cc/Px6FGY3s/maqueta-Intefaz-Usuarios.png)](https://postimg.cc/FdLx3dXD)
+
+[![maqueta-Intefaz-Donaciones.png](https://i.postimg.cc/7ZMFsGkD/maqueta-Intefaz-Donaciones.png)](https://postimg.cc/NKFCL0FP)
