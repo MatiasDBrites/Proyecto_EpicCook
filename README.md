@@ -16,3 +16,11 @@ Notas de Investigacion
 Diagrama de Afinidad
 
 [![1D.png](https://i.postimg.cc/wvz5PBdd/1D.png)](https://postimg.cc/gwM6LmJM)
+
+Clasificacion de Hallazgos
+
+[![CH1.png](https://i.postimg.cc/4dcmtDL2/CH1.png)](https://postimg.cc/CBFhpQVb)
+
+Hallazgos Ronda 1 / Ronda 2
+
+[![EUH1.png](https://i.postimg.cc/xCG99nFQ/EUH1.png)](https://postimg.cc/DJz9gkTp)
